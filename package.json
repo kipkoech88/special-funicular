@@ -1,0 +1,15 @@
+{
+  "name": "special-funicular",
+  "version": "1.0.0",
+  "description": "Resturant website build with HTML, TailwindCSS and Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
