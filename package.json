@@ -4,6 +4,8 @@
   "description": "Resturant website build with HTML, TailwindCSS and Js",
   "main": "index.js",
   "scripts": {
+    "build":"tailwindcss -i ./src/style.css -o ./public/output.css" ,
+    "watch": "tailwindcss -i ./src/style.css -o ./public/output.css --watch" ,
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
